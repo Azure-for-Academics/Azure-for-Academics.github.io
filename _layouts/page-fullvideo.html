@@ -1,0 +1,42 @@
+---
+layout: default
+format: page-fullvideo
+---
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+{% if page.title %}
+<div class="row">
+  <div class="columns small-12 align-center">
+    <h1 style="margin-top:15px">{{ page.title }}</h1>
+  </div>
+</div>
+{% endif %}
+
+<div class="row">
+  <div class="columns small-1">&nbsp;</div>
+  <div class="columns small-3">
+    {% if page.videonav.left %}<a href="{{ page.videonav.left }}" class="button tiny radius"> << Previous Video</a>{% else %}&nbsp;{% endif %}
+  </div>
+  <div class="columns small-4 align-center">
+    {% if page.videonav.top %}<a href="{{ page.videonav.top }}" class="button tiny radius">Course Content</a>{% else %}&nbsp;{% endif %}
+  </div>
+  <div class="columns small-3 align-right">
+    {% if page.videonav.right %}<a href="{{ page.videonav.right }}" class="button tiny radius">Next Video >></a>{% else %}&nbsp;{% endif %}
+  </div>
+  <div class="columns small-1">&nbsp;</div>
+</div> 
+
+<div style="text-align:center; margin: 10px;">
+{{ content }}
+</div><!-- /.row -->

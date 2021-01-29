@@ -1,0 +1,10 @@
+{% comment %}
+* Include the video from channel 9
+* 
+{% endcomment %}
+{% for entry in include %}
+{% if entry[0] != 'name' %}{% continue %}{% endif %}
+<div class="row flex-video">
+<iframe src="https://channel9.msdn.com/Series/Azure-for-Academics/{{ entry[1] }}/player" width="1000" height="563" allowFullScreen frameBorder="0" title="Getting Started with Azure - Part 1 [1 of 19] - Microsoft Channel 9 Video"></iframe>
+</div>
+{% endfor %}

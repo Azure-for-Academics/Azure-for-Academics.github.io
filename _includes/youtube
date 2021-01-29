@@ -1,0 +1,10 @@
+{% comment %}
+* Include the video from youtube
+* 
+{% endcomment %}
+{% for entry in include %}
+{% if entry[0] != 'id' %}{% continue %}{% endif %}
+<div class="row flex-video">
+	<iframe width="1280" height="720" src="//youtube.com/embed/{{ entry[1] }}?VQ=HD720" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endfor %}

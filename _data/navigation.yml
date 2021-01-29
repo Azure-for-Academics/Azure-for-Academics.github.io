@@ -1,0 +1,37 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Getting Azure
+  url: "/getting-azure/"
+  side: left
+  dropdown:
+    - title: "Free Trial"
+      url: "/getting-azure/trial"
+    - title: "For Students"
+      url: "/getting-azure/students"
+- title: "Quickstart Videos"
+  url: "/quickstart/"
+  side: left
+  dropdown:
+  - title: "Introduction to Azure and Cloud Computing"
+    url: "/quickstart/intro/"
+  - title: "Introduction to Azure Machine Learning"
+    url: "/quickstart/azureml/"
+  - title: "Azure ML Use Cases"
+    url: "/quickstart/azureml-cases/"
+
+- title: "Courses"
+  url: "/courses/"
+  side: left
+  dropdown:
+  - title: "Getting Started with Azure"
+    url: "/courses/get-started/"
+  - title: "Machine Learning on Azure"
+    url: "/courses/ml/"
+  - title: "Data on Azure"
+    url: "/courses/data/"
+  
+- title: "About Us"
+  url: "/about/"
+  side: right
