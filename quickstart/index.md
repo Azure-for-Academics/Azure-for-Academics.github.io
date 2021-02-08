@@ -12,7 +12,7 @@ This series of videos is designed to give you a quick overall introduction to Mi
 ## Quickstart Videos
 
 **[Quick Introduction to Microsoft Azure](intro)**
-: This course explains the basics of Microsoft Azure, and walks you through creating an account, managing resources and preparing for the next two courses.
+: This video introduces the concept of a cloud, and explains how Microsoft Azure can be used to abstract the way we run our code: from Virtual Machines and IaaS to Platroform Services. It shows how you can quickly benefit from using Azure, and gives overview of most important services.
 
 **[Introduction to Azure Machine Learning](azureml)**
 : Azure includes a complete solution for all your Machine Learning needs, called **Azure Machine Learning**. It can be used both by beginners (in [low-code/no-code scenarios](https://soshnikov.com/azure/how-to-learn-data-science-without-coding/)) and by experienced Data Scientists to perform tasks such as [hyperparameter optimization](https://soshnikov.com/azure/using-azureml-for-hyperparameter-optimization/). This video introduces different ways to use Azure ML in your projects.
