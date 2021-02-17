@@ -31,6 +31,8 @@
     url: "/courses/ml/"
   - title: "Data on Azure"
     url: "/courses/data/"
+  - title: "Machine Learning on Azure: Advanced Topics"
+    url: "/courses/advanced-ml/"
   
 - title: "About Us"
   url: "/about/"
