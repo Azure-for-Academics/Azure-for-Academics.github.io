@@ -20,7 +20,6 @@ Site: http://mo.phlow.de/
 Twitter: @phlow
 Theme: http://phlow.github.io/feeling-responsive/
 
-
 /* SITE */
 
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}

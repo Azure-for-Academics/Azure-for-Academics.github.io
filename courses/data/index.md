@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Getting Started with Azure"
+title: "Data on Azure"
 header:
   image_fullwidth: head.jpg
 ---

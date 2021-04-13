@@ -5,7 +5,7 @@ header:
   image_fullwidth: head.jpg
 ---
 
-Currently, we have three introductory courses available for you:
+Currently, we have four introductory courses available for you:
 
 **[Getting Started with Microsoft Azure](get-started)**
 : This course explains the basics of Microsoft Azure, and walks you through creating an account, managing resources and preparing for the next two courses.
