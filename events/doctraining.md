@@ -15,15 +15,16 @@ This training is delivered in mixed online/offline format. Please, take some tim
 ### Agenda
 
 | Title | Presenter | Pre-recorded materials | Online Activity | Time (BST, UTC+1) | Link |
-|-------|-----------|------------------------|-----------------|------------|------|
+|-------|-----------|------------------------|-----------------|-------------------|------|
 | Introduction to Azure Cloud  | [Dmitry Soshnikov][Dmitry] | [30 min lecture][IntroAzure] | **60 min** Analyzing COVID Papers using Text Analytics for Health | noon - 1pm | [Teams][Teams] |
 | Using Apache Spark / Databricks for Big Data Processing in the Cloud  | Adi Polak | [30 min video][SparkVideo], **Optional:** [Apache Spark Learning Path][SparkLP] | 15 min Q&A | 1pm-1:15pm | [Teams][Teams] |
-| Deep Learning Fundamentals with PyTorch  | [Dmitry Soshnikov][Dmitry] | [PyTorch Learning Path][PyTorchLP] | 15 min Q&A | 1:15pm-1:30pm | [Teams][Teams] |
-| Developing Web-based End-to-End ML Solutions  | Chris Noring | | |1:30pm-2pm | [Teams][Teams] |
-| Machine Learning for Time series forecasting | [Francesca Lazzeri][Francesca] | | | 2pm-2:30pm | [Teams][Teams] |
+| Deep Learning Fundamentals with PyTorch  | [Dmitry Soshnikov][Dmitry] | [PyTorch Learning Path][PyTorchLP] | 30 min Q&A |1:15pm-1:45pm | [Teams][Teams] |
+| Developing Web-based End-to-End ML Solutions  | Chris Noring | | 15 min Q&A |1:45pm-2pm | [Teams][Teams] |
+| Machine Learning for Time series forecasting | [Francesca Lazzeri][Francesca] | | 30 min Q&A | 2pm-2:30pm | [Teams][Teams] |
 | Azure Machine Learning for all your ML needs  | [Dmitry Soshnikov][Dmitry] | [30 min Intro Video][AzMLIntro], [30 min Azure ML Case Studies][AzMLCase] | **60 min** [Azure ML Workshop][AzMLWk] | 2:30pm-3:30pm | [Teams][Teams] |
-| What's New with Azure Cogntive Services: Text Analytics for Health, Form Recognizer and more | Ayşegül Yönet  | [30 min video][AYCog] | | 3:30pm-3:45pm | [Teams][Teams] |
-| Using Git and GitHub for Scientific Collaboration | Ayşegül Yönet  | Blog post (TBC) | | 3:45pm-4pm | [Teams][Teams] |
+| What's New with Azure Cogntive Services: Text Analytics for Health, Form Recognizer and more | Ayşegül Yönet  | [30 min video][AYCog] | 1 min Q&A | 3:30pm-3:45pm | [Teams][Teams] |
+| Using Git and GitHub for Scientific Collaboration | Ornella Altunyan  | [Blog Post]() | 15 min Q&A | 3:45pm-4pm | [Teams][Teams] |
+
 ### Speakers
 
 <div class="row" style="margin-bottom: 10px">
