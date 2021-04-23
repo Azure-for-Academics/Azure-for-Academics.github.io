@@ -14,17 +14,16 @@ This training is delivered in mixed online/offline format. Please, take some tim
 
 ### Agenda
 
-| Title | Presenter | Pre-recorded materials | Online Activity | Time (GMT) | Link |
+| Title | Presenter | Pre-recorded materials | Online Activity | Time (BST, UTC+1) | Link |
 |-------|-----------|------------------------|-----------------|------------|------|
-| Introduction to Azure Cloud  | [Dmitry Soshnikov][Dmitry] | [30 min lecture][IntroAzure] | **60 min** Analyzing COVID Papers using Text Analytics for Health | 11am - 12am | [Teams][Teams] |
-| Software Engineering Practices for Data Scientists using VS Code and GitHub | Chris Noring | | | | [Teams][Teams] |
-| Using Apache Spark / Databricks for Big Data Processing in the Cloud  | Adi Polak | [30 min video][SparkVideo], **Optional:** [Apache Spark Learning Path][SparkLP] | 15 min Q&A | | [Teams][Teams] |
-| Deep Learning Fundamentals with PyTorch  | [Dmitry Soshnikov][Dmitry] | [PyTorch Learning Path][PyTorchLP] | 30 min Q&A | | [Teams][Teams] |
-| Azure Machine Learning for all your ML needs  | [Dmitry Soshnikov][Dmitry] | [30 min Intro Video][AzMLIntro], [30 min Azure ML Case Studies][AzMLCase] | **60 min** [Azure ML Workshop][AzMLWk] | | [Teams][Teams] |
-| Developing Web-based End-to-End ML Solutions  | Chris Noring | | | | [Teams][Teams] |
-| Creating solutions for Health with Azure Cognitive Services | Ayşegül Yönet  | | | | [Teams][Teams] |
-| Machine Learning for Time series forecasting | [Francesca Lazzeri][Francesca] | | | | [Teams][Teams] |
-
+| Introduction to Azure Cloud  | [Dmitry Soshnikov][Dmitry] | [30 min lecture][IntroAzure] | **60 min** Analyzing COVID Papers using Text Analytics for Health | noon - 1pm | [Teams][Teams] |
+| Using Apache Spark / Databricks for Big Data Processing in the Cloud  | Adi Polak | [30 min video][SparkVideo], **Optional:** [Apache Spark Learning Path][SparkLP] | 15 min Q&A | 1pm-1:15pm | [Teams][Teams] |
+| Deep Learning Fundamentals with PyTorch  | [Dmitry Soshnikov][Dmitry] | [PyTorch Learning Path][PyTorchLP] | 15 min Q&A | 1:15pm-1:30pm | [Teams][Teams] |
+| Developing Web-based End-to-End ML Solutions  | Chris Noring | | |1:30pm-2pm | [Teams][Teams] |
+| Machine Learning for Time series forecasting | [Francesca Lazzeri][Francesca] | | | 2pm-2:30pm | [Teams][Teams] |
+| Azure Machine Learning for all your ML needs  | [Dmitry Soshnikov][Dmitry] | [30 min Intro Video][AzMLIntro], [30 min Azure ML Case Studies][AzMLCase] | **60 min** [Azure ML Workshop][AzMLWk] | 2:30pm-3:30pm | [Teams][Teams] |
+| What's New with Azure Cogntive Services: Text Analytics for Health, Form Recognizer and more | Ayşegül Yönet  | [30 min video][AYCog] | | 3:30pm-3:45pm | [Teams][Teams] |
+| Using Git and GitHub for Scientific Collaboration | Ayşegül Yönet  | Blog post (TBC) | | 3:45pm-4pm | [Teams][Teams] |
 ### Speakers
 
 <div class="row" style="margin-bottom: 10px">
@@ -102,11 +101,11 @@ Ayşegül Yönet is a Senior Azure Cloud Developer Advocate at Microsoft and foc
 [Dmitry]: http://soshnikov.com
 [Francesca]: https://github.com/FrancescaLazzeri
 [IntroAzure]: https://azure-for-academics.github.io/quickstart/intro/
-[Teams]: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmVmZDBlOWItODQxYS00MmMyLTk2NzUtYmZmYzRjOGM0ZWI3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%225be8ad16-4653-4d6e-b0fc-69bde2a01dd3%22%7d
-
+[Teams]: http://aka.ms/
 [SparkLP]: https://docs.microsoft.com/learn/paths/perform-data-engineering-with-azure-synapse-apache-spark-pools/
 [PyTorchLP]: http://github.com/MicrosoftDocs/pytorchfundamentals
 [AzMLIntro]: https://azure-for-academics.github.io/quickstart/azureml/
 [AzMLCase]: https://azure-for-academics.github.io/quickstart/azureml-cases/
 [AzMLWk]: http://github.com/CloudAdvocacy/AzureMLStarter
 [SparkVideo]: https://youtu.be/aYKQ9j0A5Cg
+[AYCog]: https://docs.microsoft.com/en-us/events/ignite-mar-2021/azure/sessions/od330/?WT.mc_id=aiml-10707-ayyonet
