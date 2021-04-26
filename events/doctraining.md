@@ -98,6 +98,21 @@ Ayşegül Yönet is a Senior Azure Cloud Developer Advocate at Microsoft and foc
   </div>
 </div>
 
+<div class="row" style="margin-bottom: 10px">
+  <div class="columns small-4">
+    <img src="/images/users/ornella-altunyan.jpg"/>
+  </div>
+  <div class="columns small-8">
+    <h3 style="margin:0px">
+    Ornella Altunyan
+    </h3>
+    <p style="font-size: 12px">
+Ornella Altunyan is a Cloud Advocate for Microsoft based in San Francisco, California. She’s worked on multiple technologies during her time at Microsoft, including Mixed Reality and Visual Studio Code. She holds a BA in Computer Science and Digital Media Studies from Pomona College.
+
+Ornella is passionate about using technology and design thinking for social good, as well as making computer science education accessible to all communities. She mentors first-generation and low-income college students who want to pursue computer science careers.
+    </p>
+  </div>
+</div>
 
 [Dmitry]: http://soshnikov.com
 [Francesca]: https://github.com/FrancescaLazzeri
