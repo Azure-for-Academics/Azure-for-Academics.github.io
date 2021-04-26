@@ -100,7 +100,7 @@ Ayşegül Yönet is a Senior Azure Cloud Developer Advocate at Microsoft and foc
 
 <div class="row" style="margin-bottom: 10px">
   <div class="columns small-4">
-    <img src="/images/users/ornella-altunyan.jpg"/>
+    <img src="/images/users/ornella-altunyan.png"/>
   </div>
   <div class="columns small-8">
     <h3 style="margin:0px">
