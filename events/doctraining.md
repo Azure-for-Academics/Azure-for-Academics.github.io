@@ -8,9 +8,11 @@ header:
 ## Advanced Computational Training
 ### for [StatML Center for Doctoral Training](https://statml.io/) at Imperial and Oxford <br/> May 13th, 2021
 
-This training is delivered in mixed online/offline format. Please, take some time to study pre-recorded materials before the date of the event, and come and join online activities to get some hands-on experience with Microsoft Azure.
+Welcome to Microsoft Azure Training!
 
-> In order to take part in practical workshops, you need Microsoft Azure Account. Different ways to get Azure account are described [here](https://azure-for-academics.github.io/getting-azure/) 
+This training is delivered in mixed online/offline format. On the actual date of the event (May 13th), we will only do Q&A sessions (where we would expect questions from the audience) and a couple of hands-on master classes. It is important to go through pre-recorded materials prior to the date of the event. Join online activities to have all your questions answered and to get some hands-on experience with Microsoft Azure.
+
+> In order to take part in practical workshops, you need Microsoft Azure Account. Different ways to get Azure account are described [here](https://azure-for-academics.github.io/getting-azure/).
 
 ### Agenda
 
