@@ -34,7 +34,7 @@ Complete the [Getting Started with Azure](../get-started/) course by Alex Vazque
 
 > To fulfil the course, you would need to [get your Azure subscription](/getting-azure/)
 
-[Download all materials for offline use](https://aka.ms/university-azure/MachineLearning)
+
 
 ## Course Videos 
 
