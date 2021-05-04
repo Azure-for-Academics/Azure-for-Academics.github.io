@@ -30,7 +30,7 @@ And you will complete the following hands-on exercises:
 
 > To fulfil the course, you would need to [get your Azure subscription](/getting-azure/)
 
-[Download all materials for offline use](https://aka.ms/university-azure/GettingStartedAzure)
+
  
 ## Course Videos 
 
