@@ -30,7 +30,7 @@ Complete the [Getting Started with Azure](../get-started/) course by Alex Vazque
 ## Course Materials 
 
  * On-demand course videos
- * Scheduled Live Office Hours with Course Instructor. Submit your questions in advance of scheduled office hours at https://aka.ms/university-azure/questions 
+ * Scheduled Live Office Hours with Course Instructor. Submit your questions in advance of scheduled office hours at [https://aka.ms/university-azure/questions](https://aka.ms/university-azure/questions)  
 
 > To fulfil the course, you would need to [get your Azure subscription](/getting-azure/)
 
@@ -54,7 +54,7 @@ Complete the [Getting Started with Azure](../get-started/) course by Alex Vazque
  * [Microsoft Learn - Azure fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) 
  * [Azure Machine Learning](https://github.com/FrancescaLazzeri/Workshop-AzureML)  
  * [Azure Machine Learning designer](http://www.aka.ms/AzureMLdesigner) 
- * [Azure Machine Learning]](http://www.aka.ms/AzureMLservice)
+ * [Azure Machine Learning](http://www.aka.ms/AzureMLservice)
  * [Get started with Azure ML](http://www.aka.ms/GetStartedAzureML)
  * [Deep Learning VS Machine Learning explained](http://www.aka.ms/DeepLearningVSMachineLearning) 
  * [Algorithm Cheat Sheet](http://www.aka.ms/AlgorithmCheatSheet) 

@@ -31,7 +31,7 @@ And you will complete the following hands-on exercises:
 ## Course Materials 
 
  * On-demand course videos
- * Scheduled Live Office Hours with Course Instructor. Submit your questions in advance of scheduled office hours at https://aka.ms/university-azure/questions 
+ * Scheduled Live Office Hours with Course Instructor. Submit your questions in advance of scheduled office hours at [https://aka.ms/university-azure/questions](https://aka.ms/university-azure/questions) 
 
 > To fulfil the course, you would need to [get your Azure subscription](/getting-azure/)
 
