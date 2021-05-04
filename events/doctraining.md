@@ -8,22 +8,24 @@ header:
 ## Advanced Computational Training
 ### for [StatML Center for Doctoral Training](https://statml.io/) at Imperial and Oxford <br/> May 13th, 2021
 
-This training is delivered in mixed online/offline format. Please, take some time to study pre-recorded materials before the date of the event, and come and join online activities to get some hands-on experience with Microsoft Azure.
+Welcome to Microsoft Azure Training!
 
-> In order to take part in practical workshops, you need Microsoft Azure Account. Different ways to get Azure account are described [here](https://azure-for-academics.github.io/getting-azure/) 
+This training is delivered in mixed online/offline format. On the actual date of the event (May 13th), we will only do Q&A sessions (where we would expect questions from the audience) and a couple of hands-on master classes. It is important to go through pre-recorded materials prior to the date of the event. Join online activities to have all your questions answered and to get some hands-on experience with Microsoft Azure.
+
+> In order to take part in practical workshops, you need Microsoft Azure Account. Different ways to get Azure account are described [here](https://azure-for-academics.github.io/getting-azure/).
 
 ### Agenda
 
-| Title | Presenter | Pre-recorded materials | Online Activity | Time (GMT) | Link |
-|-------|-----------|------------------------|-----------------|------------|------|
-| Introduction to Azure Cloud  | [Dmitry Soshnikov][Dmitry] | [30 min lecture][IntroAzure] | **60 min** Analyzing COVID Papers using Text Analytics for Health | 11am - 12am | [Teams][Teams] |
-| Software Engineering Practices for Data Scientists using VS Code and GitHub | Chris Noring | | | | [Teams][Teams] |
-| Using Apache Spark / Databricks for Big Data Processing in the Cloud  | Adi Polak | [30 min video][SparkVideo], **Optional:** [Apache Spark Learning Path][SparkLP] | 15 min Q&A | | [Teams][Teams] |
-| Deep Learning Fundamentals with PyTorch  | [Dmitry Soshnikov][Dmitry] | [PyTorch Learning Path][PyTorchLP] | 30 min Q&A | | [Teams][Teams] |
-| Azure Machine Learning for all your ML needs  | [Dmitry Soshnikov][Dmitry] | [30 min Intro Video][AzMLIntro], [30 min Azure ML Case Studies][AzMLCase] | **60 min** [Azure ML Workshop][AzMLWk] | | [Teams][Teams] |
-| Developing Web-based End-to-End ML Solutions  | Chris Noring | | | | [Teams][Teams] |
-| Creating solutions for Health with Azure Cognitive Services | Ayşegül Yönet  | | | | [Teams][Teams] |
-| Machine Learning for Time series forecasting | [Francesca Lazzeri][Francesca] | | | | [Teams][Teams] |
+| Title | Presenter | Pre-recorded materials | Online Activity | Time (BST, UTC+1) | Link |
+|-------|-----------|------------------------|-----------------|-------------------|------|
+| Introduction to Azure Cloud  | [Dmitry Soshnikov][Dmitry] | [30 min lecture][IntroAzure] | **60 min** Analyzing COVID Papers using Text Analytics for Health | noon - 1pm | [Teams][Teams] |
+| Using Apache Spark / Databricks for Big Data Processing in the Cloud  | Adi Polak | [30 min video][SparkVideo], **Optional:** [Apache Spark Learning Path][SparkLP] | 15 min Q&A | 1pm-1:15pm | [Teams][Teams] |
+| Deep Learning Fundamentals with PyTorch  | [Dmitry Soshnikov][Dmitry] | [PyTorch Learning Path][PyTorchLP] | 30 min Q&A |1:15pm-1:45pm | [Teams][Teams] |
+| Developing Web-based End-to-End ML Solutions  | Chris Noring | [1hr video][ChrisVideo] | 15 min Q&A |1:45pm-2pm | [Teams][Teams] |
+| Machine Learning for Time series forecasting | [Francesca Lazzeri][Francesca] | [30 min video][FrVideo] | 30 min Q&A | 2pm-2:30pm | [Teams][Teams] |
+| Azure Machine Learning for all your ML needs  | [Dmitry Soshnikov][Dmitry] | [30 min Intro Video][AzMLIntro], [30 min Azure ML Case Studies][AzMLCase] | **60 min** [Azure ML Workshop][AzMLWk] | 2:30pm-3:30pm | [Teams][Teams] |
+| What's New with Azure Cogntive Services: Text Analytics for Health, Form Recognizer and more | Ayşegül Yönet  | [30 min video][AYCog] | 1 min Q&A | 3:30pm-3:45pm | [Teams][Teams] |
+| Using Git and GitHub for Scientific Collaboration | Ornella Altunyan  | [Blog Post][GitBlog] | 15 min Q&A | 3:45pm-4pm | [Teams][Teams] |
 
 ### Speakers
 
@@ -98,15 +100,33 @@ Ayşegül Yönet is a Senior Azure Cloud Developer Advocate at Microsoft and foc
   </div>
 </div>
 
+<div class="row" style="margin-bottom: 10px">
+  <div class="columns small-4">
+    <img src="/images/users/ornella-altunyan.png"/>
+  </div>
+  <div class="columns small-8">
+    <h3 style="margin:0px">
+    Ornella Altunyan
+    </h3>
+    <p style="font-size: 12px">
+Ornella Altunyan is a Cloud Advocate for Microsoft based in San Francisco, California. She’s worked on multiple technologies during her time at Microsoft, including Mixed Reality and Visual Studio Code. She holds a BA in Computer Science and Digital Media Studies from Pomona College.
+
+Ornella is passionate about using technology and design thinking for social good, as well as making computer science education accessible to all communities. She mentors first-generation and low-income college students who want to pursue computer science careers.
+    </p>
+  </div>
+</div>
 
 [Dmitry]: http://soshnikov.com
 [Francesca]: https://github.com/FrancescaLazzeri
 [IntroAzure]: https://azure-for-academics.github.io/quickstart/intro/
-[Teams]: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmVmZDBlOWItODQxYS00MmMyLTk2NzUtYmZmYzRjOGM0ZWI3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%225be8ad16-4653-4d6e-b0fc-69bde2a01dd3%22%7d
-
+[Teams]: http://aka.ms/
 [SparkLP]: https://docs.microsoft.com/learn/paths/perform-data-engineering-with-azure-synapse-apache-spark-pools/
 [PyTorchLP]: http://github.com/MicrosoftDocs/pytorchfundamentals
 [AzMLIntro]: https://azure-for-academics.github.io/quickstart/azureml/
 [AzMLCase]: https://azure-for-academics.github.io/quickstart/azureml-cases/
 [AzMLWk]: http://github.com/CloudAdvocacy/AzureMLStarter
 [SparkVideo]: https://youtu.be/aYKQ9j0A5Cg
+[AYCog]: https://docs.microsoft.com/en-us/events/ignite-mar-2021/azure/sessions/od330/?WT.mc_id=aiml-10707-ayyonet
+[FrVideo]: https://youtu.be/BxHAK5fPoYA
+[GitBlog]: https://soshnikov.com/science/collaborate-on-research-papers-with-github/
+[ChrisVideo]: https://youtu.be/wXQaCVekx5g
