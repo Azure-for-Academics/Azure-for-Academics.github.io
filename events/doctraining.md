@@ -119,7 +119,7 @@ Ornella is passionate about using technology and design thinking for social good
 [Dmitry]: http://soshnikov.com
 [Francesca]: https://github.com/FrancescaLazzeri
 [IntroAzure]: https://azure-for-academics.github.io/quickstart/intro/
-[Teams]: http://aka.ms/
+[Teams]: http://aka.ms/doctraining
 [SparkLP]: https://docs.microsoft.com/learn/paths/perform-data-engineering-with-azure-synapse-apache-spark-pools/
 [PyTorchLP]: http://github.com/MicrosoftDocs/pytorchfundamentals
 [AzMLIntro]: https://azure-for-academics.github.io/quickstart/azureml/
