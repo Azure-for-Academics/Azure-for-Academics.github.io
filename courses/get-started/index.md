@@ -44,8 +44,8 @@ And you will complete the following hands-on exercises:
 | Video 1D | [Getting Started with Azure – Part 4](4) | Part 4 covers an Azure walkthrough Part 2 | 13:28 | 
 | Video 1E | [Getting Started with Azure – Part 5](5) | Part 5 covers an overview of additional learning resources | 1:30 |
 | Video 1F | [Exercise - Setting up first Azure for Students Subscription](6) | Exercise: Setting up your first Azure for Students subscription. | 7:04 | 
-| Video 1G | [Exercise - Preparing for Machine Learning](7) | Exercise: Preparing for Machine Learning in Azure. Update: Please follow the instructions at [Set up MySQL database in the Cloud Shell](https://github.com/paladique/Workshop-DataInAzure#set-up-mysql-database-in-the-cloud-shell) in order to set up the MySQL Database in the Cloud Shell. You must now include the certificate steps listed. | 5:40 | 
-| Video 1H | [Exercise - Preparing for Working with Data](8) | Exercise: Preparing for working with data in Azure. |16:03 |
+| Video 1G | [Exercise - Preparing for Machine Learning](7) | Exercise: Preparing for Machine Learning in Azure. | 5:40 | 
+| Video 1H | [Exercise - Preparing for Working with Data](8) | Exercise: Preparing for working with data in Azure. Update: Please follow the instructions at [Set up MySQL database in the Cloud Shell](https://github.com/paladique/Workshop-DataInAzure#set-up-mysql-database-in-the-cloud-shell) in order to set up the MySQL Database in the Cloud Shell. You must now include the certificate steps listed. |16:03 |
 
 ## Additional Resources 
 
