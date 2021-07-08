@@ -33,7 +33,14 @@
     url: "/courses/data/"
   - title: "Machine Learning on Azure: Advanced Topics"
     url: "/courses/advanced-ml/"
-  
+- title: "Curricula"
+  url: "/curricula/"
+  dropdown:
+  - title: "Web Development for Beginners"
+    url: "https://github.com/microsoft/web-dev-for-beginners"
+  - title: "Machine Learning for Beginners"
+    url: "https://github.com/microsoft/ml-for-beginners"
+
 - title: "About Us"
   url: "/about/"
   side: right
