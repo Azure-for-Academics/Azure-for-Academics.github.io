@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Getting Azure
+- title: "Getting Azure"
   url: "/getting-azure/"
   side: left
   dropdown:
@@ -10,7 +10,7 @@
       url: "/getting-azure/trial"
     - title: "For Students"
       url: "/getting-azure/students"
-- title: "Quickstart Videos"
+- title: "Quickstarts"
   url: "/quickstart/"
   side: left
   dropdown:
