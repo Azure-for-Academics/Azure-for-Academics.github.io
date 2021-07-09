@@ -22,3 +22,11 @@ We have chosen two pedagogical tenets while building this curriculum: ensuring t
 </td><td>
 In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library. Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 </td></tr></table>
+
+### IoT for Beginners
+
+<table><tr valign="top"><td width="200">
+<a href="https://github.com/microsoft/iot-for-beginners"><img src="/images/curricula/iot.png" width="200"/></a>
+</td><td>
+We are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. The projects cover the journey of food from farm to table. This includes farming, logistics, manufacturing, retail and consumer - all popular industry areas for IoT devices.
+</td></tr></table>
