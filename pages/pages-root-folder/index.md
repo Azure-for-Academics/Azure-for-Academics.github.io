@@ -20,8 +20,8 @@ widget2:
 widget3:
   title: "Azure Syllabus"
   url: '/courses/'
-  image: syllabus.png
-  text: 'Introductory syllabus on Azure consists of three modules that introduce you to Azure platform (and walk you through creating an Azure account), to Machine Learning on Azure, and to working with Data (including relational and non-relational data). Those courses are accompanied by office hours, where you can ask further questions on your specific projects.'
+  image: azure_logo.png
+  text: 'Introductory syllabus on Azure consists of three modules that introduce you to Azure platform (and walk you through creating an Azure account), to Machine Learning on Azure, and to working with Data (including relational and non-relational data).'
 #
 # Use the call for action to show a button on the frontpage
 #
