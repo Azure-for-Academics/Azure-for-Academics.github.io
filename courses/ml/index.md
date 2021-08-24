@@ -6,6 +6,7 @@ header:
 ---
 
 ## Course Overview 
+Course Date: October 2020
 
 **Course Instructor: <a href="/about/#frlazzeri">Francesca Lazzeri</a>, PhD**
 
@@ -30,7 +31,7 @@ Complete the [Getting Started with Azure](../get-started/) course by Alex Vazque
 ## Course Materials 
 
  * On-demand course videos
- * Scheduled Live Office Hours with Course Instructor. Submit your questions in advance of scheduled office hours at [https://aka.ms/university-azure/questions](https://aka.ms/university-azure/questions)  
+ * Have Questions? Submit your questions to [https://aka.ms/university-azure/questions](https://aka.ms/university-azure/questions) 
 
 > To fulfil the course, you would need to [get your Azure subscription](/getting-azure/)
 

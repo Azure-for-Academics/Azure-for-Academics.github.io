@@ -6,6 +6,7 @@ header:
 ---
 
 ## Course Overview 
+Course Date: October 2020
 
 **Course Instructor: <a href="/about/#paladique">Jasmine Greenaway</a>**
 
@@ -31,7 +32,7 @@ And you will complete the following hands-on exercises:
 ## Course Materials 
 
  * On-demand course videos
- * Scheduled Live Office Hours with Course Instructor. Submit your questions in advance of scheduled office hours at [https://aka.ms/university-azure/questions](https://aka.ms/university-azure/questions) 
+ * Have Questions? Submit your questions to [https://aka.ms/university-azure/questions](https://aka.ms/university-azure/questions) 
 
 > To fulfil the course, you would need to [get your Azure subscription](/getting-azure/)
 
