@@ -46,8 +46,10 @@
     url: "https://github.com/microsoft/data-science-for-beginners"
   - title: "IoT for Beginners"
     url: "https://github.com/microsoft/iot-for-beginners"
+
 - title: "Tools"
   url: "/tools/"
+  side: left
   dropdown:
   - title: "PyBryt"
     url: "http://github.com/microsoft/pybryt"
