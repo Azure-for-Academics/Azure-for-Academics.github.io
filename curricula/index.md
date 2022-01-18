@@ -23,6 +23,14 @@ We have chosen two pedagogical tenets while building this curriculum: ensuring t
 In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library. Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 </td></tr></table>
 
+### Data Science for Beginners
+
+<table><tr valign="top"><td width="200">
+<a href="https://github.com/microsoft/data-science-for-beginners"><img src="/images/curricula/ds.png" width="200"/></a>
+</td><td>
+This curriculum complements ML for Beginners, and it talks more about different types of data, how you can obtain the data, process it and visualize it to draw meaningful insights. You will learn about basic concepts of Probability and Statistics, about Relational vs. Semistructured data, basics of Python for data manipulation and visualization, as well as some cloud tools to let you work with data and train some models.
+</td></tr></table>
+
 ### IoT for Beginners
 
 <table><tr valign="top"><td width="200">
