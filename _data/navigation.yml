@@ -16,10 +16,14 @@
   dropdown:
   - title: "Introduction to Azure and Cloud Computing"
     url: "/quickstart/intro/"
+  - title: "AI on Microsoft Azure"
+    url: "/quickstart/azureai/"
   - title: "Introduction to Azure Machine Learning"
     url: "/quickstart/azureml/"
   - title: "Azure ML Use Cases"
     url: "/quickstart/azureml-cases/"
+  - title: "Exploring Papers with Code on Azure ML"
+    url: "/quickstart/azureml-papers/"
 
 - title: "Courses"
   url: "/courses/"
