@@ -31,6 +31,16 @@ In this curriculum, you will learn about what is sometimes called classic machin
 This curriculum complements ML for Beginners, and it talks more about different types of data, how you can obtain the data, process it and visualize it to draw meaningful insights. You will learn about basic concepts of Probability and Statistics, about Relational vs. Semistructured data, basics of Python for data manipulation and visualization, as well as some cloud tools to let you work with data and train some models.
 </td></tr></table>
 
+### Artificial Intelligence for Beginners
+
+<table><tr valign="top"><td width="200">
+<a href="https://github.com/microsoft/ai-beginners"><img src="/images/curricula/ai.png" width="200"/></a>
+</td><td>
+This curriculum contains 24 main lessons on AI and Neural Networks, and a growing number of Extra topics, which cover
+more recent advances in the area. The course quickly covers classical AI topics such as knowledge representation
+and reasoning, multi-agent systems and genetic algorithms, and largely focuses on different neural architectures for computer vision and natural language processing.
+</td></tr></table>
+
 ### IoT for Beginners
 
 <table><tr valign="top"><td width="200">

@@ -48,6 +48,8 @@
     url: "https://github.com/microsoft/ml-for-beginners"
   - title: "Data Science for Beginners"
     url: "https://github.com/microsoft/data-science-for-beginners"
+  - title: "Artificial Intelligence for Beginners"
+    url: "http://github.com/microsoft/ai-for-beginners"
   - title: "IoT for Beginners"
     url: "https://github.com/microsoft/iot-for-beginners"
 
